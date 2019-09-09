@@ -1,4 +1,4 @@
-# test
+Playground Application for VueJS
 
 ## Project setup
 ```
